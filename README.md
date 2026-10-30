@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Kadal+%F0%9F%91%8B;Junior+Web+Dev+%26+ML;Sedang+bertumbuh+jadi+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Kadal+%F0%9F%91%8B;Junior+Web+Dev+%26+ML)](https://git.io/typing-svg)
 
 <br/>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=FF6B2B&height=120&section=header&text=Komouy&fontSize=40&fontColor=000000&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=FF6B2B&height=120&section=header&text=Komouy&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
@@ -14,7 +14,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 👨‍💻 Tentang Saya
+### Tentang Saya
 
 Seorang pengembang yang sedang bertumbuh di persimpangan antara **web development** dan **kecerdasan buatan**.
 
@@ -25,13 +25,13 @@ Fokus membangun proyek-proyek kecil yang (semoga) berguna — dari CLI tools hin
 </td>
 <td valign="top" width="50%">
 
-### 🚀 Sedang Dikerjakan
+### Sedang Dikerjakan
 
 | Proyek | Deskripsi |
 |--------|-----------|
 | [KlyroCLI](https://github.com/Komouy/KlyroCLI) | CLI Tool · Python |
-| [Arka-AI-Drive-Assistant](https://github.com/Komouy/Arka-AI-Drive-Assistant) | Drive AI Assistant · JS |
-| [AI-Memory-Desk](https://github.com/Komouy/AI-Memory-Desk) | Memory Desk · Python |
+| [DayFlow](https://github.com/Komouy/DayFlow) | Day Flow · JavaScript |
+| [Portofolio](https://github.com/Komouy/Portofolio) | Portofolio · Web |
 
 </td>
 </tr>
@@ -39,7 +39,7 @@ Fokus membangun proyek-proyek kecil yang (semoga) berguna — dari CLI tools hin
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Fokus membangun proyek-proyek kecil yang (semoga) berguna — dari CLI tools hin
 
 ---
 
-### 📬 Temukan Saya
+### Temukan Saya
 
 <div align="center">
 
