@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Kadal 👋
+# Halo, saya KadalApi
 
 *Junior Web Developer & Machine Learning Enthusiast*
 
