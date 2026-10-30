@@ -28,7 +28,7 @@ Masih banyak yang harus dipelajari. Dan itu justru yang membuat perjalanan ini m
 
 ### Filosofi
 
-> *"Model terbaik butuh banyak iterasi — begitu juga saya."*
+> *"Model terbaik butuh banyak literasi — begitu juga saya."*
 
 ---
 
