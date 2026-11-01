@@ -16,11 +16,11 @@
 
 ### Tentang Saya
 
-Seorang pengembang yang sedang bertumbuh di persimpangan antara **web development** dan **kecerdasan buatan**.
+Saya adalah mahasiswa Informatika yang memiliki ketertarikan pada pengembangan perangkat lunak, khususnya **Web Development** dan **Artificial Intelligence**.
 
-Fokus membangun proyek-proyek kecil yang (semoga) berguna — dari CLI tools hingga AI assistant.
+Senang mengeksplorasi teknologi, membangun berbagai proyek, dan mengubah ide menjadi sesuatu yang dapat digunakan.
 
-> *"Model terbaik butuh banyak iterasi — begitu juga saya."*
+> *"Turning ideas into reality, one project at a time."*
 
 </td>
 <td valign="top" width="50%">
